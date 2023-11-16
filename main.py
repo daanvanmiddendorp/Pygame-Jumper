@@ -1,4 +1,5 @@
-# dit is een test
+# dit spel is gemaakt door:
+# - Daan van Middendorp
 
 from typing import Any
 import pygame
